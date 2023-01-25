@@ -1,0 +1,46 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.imgqr img{
+    border-radius: 24px;
+    width: 100%;
+    height: auto;
+    
+}
+.Main-block{
+    text-align: center;
+    width: 320px;
+    border-radius: 24px;
+    box-shadow: 0px 10px 22px rgba(0, 0, 0, 0.25);
+    padding: 16px 16px 30px 16px;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: hsl(0, 0%, 100%);
+
+}
+
+
+
+.message{
+    font-size: 21px;
+    font-weight: 700;
+    width: 260px;
+    line-height: 25px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin: auto;
+}
+.guide{
+
+    font-weight: 400;
+    
+    line-height: 18px;
+    font-size: 12px;
+    width: 260px;
+    margin: auto;
+    color: hsl(240, 0%, 58%);
+}
